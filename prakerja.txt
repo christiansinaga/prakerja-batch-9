@@ -1,2 +1,2 @@
 perkenalkan nama saya christian
-menggunakan branch featureA
+menggunakan merge fast foward
